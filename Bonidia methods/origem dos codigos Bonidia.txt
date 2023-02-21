@@ -1,1 +1,5 @@
 Os codigos da pasta Bonidia methods pertencem a Robson P. Bonidia e foram obtidos no repositorio github.com/bonidia
+
+Article: Robson P Bonidia, Lucas D H Sampaio, Douglas S Domingues, Alexandre R Paschoal, Fabrício M Lopes, André C P L F de Carvalho, Danilo S Sanches, Feature extraction approaches for biological sequences: a comparative study of mathematical features, Briefings in Bioinformatics, 2021;, bbab011, https://doi.org/10.1093/bib/bbab011.
+
+Obrigada ao Bonidia e aos demais autores.
